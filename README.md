@@ -14,6 +14,10 @@ Installer les dépendances présentes dans le fichier package.json :
 - Lancer la stack en développement : `npm run dev`
 - Lancer la stack en production : `npm run build`
 
+## Usages de SASS
+
+- [@use et @forward](./docs/use-et-forward.md)
+
 ## Ressources
 
 - [Documentation Dart-Sass](https://sass-lang.com/documentation/cli/dart-sass)
