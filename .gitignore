@@ -1,0 +1,9 @@
+# Ignorer les dépendences Node JS
+node_modules/
+package-lock.json
+
+# Feuille de style générer
+css/
+
+# Dossier temporaire
+tmp/

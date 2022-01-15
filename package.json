@@ -1,0 +1,13 @@
+{
+  "name": "test-sass-compilation",
+  "version": "1.0.0",
+  "description": "Test de compilation avec l'implémentaion Dart-Sass.",
+  "keywords": [
+    "sass",
+    "dart-sass"
+  ],
+  "author": "Céline André",
+  "devDependencies": {
+    "sass": "^1.43.2"
+  }
+}
