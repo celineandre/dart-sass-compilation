@@ -1,9 +1,10 @@
 @use '../settings' as s;
 
 // *******************************
-// Base : HTML
+// COMPONENTS : Card
 // *******************************
 
-body {
-  background-color: s.$color-1;
+.card {
+  color: s.$color-2;
+  font-size: s.$size;
 }
