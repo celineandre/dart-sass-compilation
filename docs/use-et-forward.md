@@ -1,4 +1,4 @@
-# @use et @forward]
+# @use et @forward
 
 [> Revenir au Readme](./../README.md)
 
